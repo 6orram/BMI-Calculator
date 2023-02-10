@@ -1,7 +1,7 @@
 # BMI_Calculator
 This program can do a simple calculation used to estimate an individual's body fat based on their height and weight.
 
-# What's BMI ?
+## What's BMI ?
 BMI stands for Body Mass Index, and it is a simple calculation used to estimate an individual's body fat based on their height and weight. It is widely used as a basic indicator of healthy body weight, although it has some limitations and should not be used as the sole measure of an individual's health status.
 
 The BMI formula is calculated as follows:
